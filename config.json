@@ -1,0 +1,8 @@
+{
+  "model": "TX-90",
+  "type": "Main Battle Tank",
+  "armorThicknessMm": 850,
+  "maxSpeedKmh": 60,
+  "fuelCapacityLiters": 1200,
+  "crew": 4
+}
